@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p>Test</p>
+      <h1 className="text-3xl underline">Test</h1>
     </>
   );
 }
